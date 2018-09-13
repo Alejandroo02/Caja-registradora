@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1535595005 source:d:\coding\codeforces\cajero automatico\main.cpp
+	<iostream>
+	<string>
+	<locale>
+	<vector>
+
