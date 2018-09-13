@@ -1,0 +1,2 @@
+# Caja-registradora
+N/A
